@@ -1,0 +1,29 @@
+.navbar {
+    text-align: center;
+}
+
+footer {
+    width: 100%;
+    height: 30%;
+}
+
+.smm {
+    font-size: 30px;
+    font-weight: 600;
+    text-align: center;
+    text-decoration: none;
+    background: transparent;
+}
+
+.smm a {
+    padding: 5px;
+}
+
+.smm a:hover {
+    font-size: 25px;
+    color: darkgreen;
+}
+
+.smm h6 {
+    color: gray;
+}
